@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Krishna Dharmendra | Systems & Full-Stack Engineer 🚀</h1>
+<h1 align="center">Hi there, I'm Krishna Dharmendra</h1>
 
 <!-- Advanced Engineering Typing Architecture -->
 <p align="center">
