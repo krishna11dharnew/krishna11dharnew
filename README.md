@@ -1,9 +1,9 @@
-<h1 align="center">Hi there, I'm Krishna Dharmendra </h1>
+<h1 align="center">Hi there, I'm Krishna Dharmendra | Systems & Full-Stack Engineer 🚀</h1>
 
 <!-- Advanced Engineering Typing Architecture -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Distributed+Systems+%26+Microservices;High-Concurrency+Backend+Dev;LeetCode+Knight+%E2%9A%94%EF%B8%8F+CF+Specialist;GenAI+%26+Autonomous+Agentic+Flows" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Distributed+Systems+%26+Microservices;High-Concurrency+Backend+Dev;LeetCode+Knight+%E2%9A%94%EF%B8%8F+CF+Specialist;GenAI+%26+Autonomous+Agentic+Flows" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,6 +19,7 @@
 
 - 🎓 **Academic Base:** Pursuing B.Tech in Computer Science and Engineering at **I.E.T., Lucknow** (Current CGPA: 8.75/10).
 - ⚡ **Algorithmic Efficiency:** Active Competitive Programmer — **LeetCode Knight (Peak: 1900+)** & **Codeforces Specialist (1400+)**. Solved 1000+ complex DSA problems focusing on runtime optimization.
+- 🌱 **Community:** Core Team Member at **Excelsior** (Literary Club) and Volunteer at **Parmarth** (Social Club).
 
 ---
 
@@ -34,6 +35,8 @@
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
       </details>
     </td>
     <td width="50%">
@@ -90,7 +93,7 @@
 
 ---
 
-### 📊 System Performance & Contributions
+### 📊 GitHub Stats & Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishna11dharnew&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
@@ -100,7 +103,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishna11dharnew&theme=github-dark-neon&hide_border=true&bg_color=0D1117" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishna11dharnew&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
@@ -112,4 +115,5 @@
   <a href="https://www.linkedin.com/in/krishna-dharmendra-b65741271/"><img src="https://img.shields.io/badge/Network-LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/u/_krishnasharma0101/"><img src="https://img.shields.io/badge/Algorithms-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <a href="https://codeforces.com/profile/mekrishna006"><img src="https://img.shields.io/badge/Compilers-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://www.codechef.com/users/idontknowthem"><img src="https://img.shields.io/badge/Logic-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 </p>
