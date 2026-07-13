@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Krishna Dharmendra | Systems & Full-Stack Engineer 🚀</h1>
+<h1 align="center">Hi there, I'm Krishna Dharmendra | Systems & Full-Stack Developer 🚀</h1>
 
 <!-- Advanced Engineering Typing Architecture -->
 <p align="center">
@@ -83,26 +83,31 @@
 - **Data Integrity:** Handled distributed transaction flows using the **SAGA Pattern** orchestrated over **Apache Kafka** pipelines. Implemented structured **Dead-Letter Queues (DLQ)** for autonomous payment/booking fallback management.
 - **Concurrency Control:** Utilized **Redis Distributed Locks** to guarantee race-condition free seat inventories under intense concurrent request traffic.
 
+#### 🚖 **[Rydex — Real-Time Ride Booking Platform](https://github.com/krishna11dharnew/3.rydex)**
+- **Real-Time Architecture:** Structured a full-stack Next.js/Express environment, integrating native **WebSockets (Socket.io)** for dynamic, sub-second client-to-server geolocational matrix updates.
+- **System Design:** Engineered scalable RESTful APIs and optimized MongoDB schemas to seamlessly handle concurrent live state management and dynamic ride routing.
+
 #### 🤖 **[Cortex-Ai — Multi-Agent Intelligence Infrastructure](https://github.com/krishna11dharnew/cortex-Ai)**
 - **Workflows:** Deployed a dockerized multi-agent workflow framework using **LangGraph** to construct cyclic graph patterns for low-latency autonomous tool calling.
 - **Context Optimization:** Designed a high-performance **RAG pipeline** using **Qdrant Vector DB** for sub-second semantic retrieval, backed by dynamic Redis session caching mechanisms.
 
-#### 🌐 **[DrishKD — AI SaaS Engine](https://github.com/krishna11dharnew/DrishKD)** | 🚖 **[Rydex — Low-Latency Ride Tracker](https://github.com/krishna11dharnew/3.rydex)**
-- Deployed an AI-first compiler interface (**DrishKD**) parsing natural language inputs into real-time rendering, production-ready React layouts.
-- Structured **Rydex** using a Next.js/Express architecture, integrating native **WebSockets (Socket.io)** for dynamic, sub-second client-to-server geolocational matrix updates.
+#### 🌐 **[DrishKD — AI SaaS Engine](https://github.com/krishna11dharnew/DrishKD)**
+- **Generative UI:** Deployed an AI-first compiler interface parsing natural language inputs into real-time rendering, production-ready React layouts utilizing the MERN stack and OpenRouter API.
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 System Analytics & Contribution Matrix
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna11dharnew&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <!-- Redesigned Streak with Core Blue Theme -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna11dharnew&hide_border=true&background=0D1117&ring=007ACC&fire=007ACC&currStreakLabel=007ACC&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishna11dharnew&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Contribution Graph" width="100%" />
+  <!-- Filled Area Chart for Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishna11dharnew&bg_color=0D1117&color=007ACC&line=007ACC&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
